@@ -8,6 +8,6 @@
 A library for Huffman's compression. \
 The program consists of 3 parts:
    * A library which implements operations of encoding and decoding.
-   * A console utilty which allows to compress/decompress files on a disk.
+   * A console utility which allows to compress/decompress files on a disk.
    * A checking-program with a set of tests.
     
